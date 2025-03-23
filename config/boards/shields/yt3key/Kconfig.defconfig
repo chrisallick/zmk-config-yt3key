@@ -1,0 +1,6 @@
+if SHIELD_YT3KEY
+
+config ZMK_KEYBOARD_NAME
+	default "YT3KEY"
+
+endif
